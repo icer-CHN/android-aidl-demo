@@ -1,0 +1,1 @@
+The local *.aidl files must be put into the same package as the remote service *.aidl.
